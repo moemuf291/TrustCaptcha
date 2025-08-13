@@ -1,4 +1,4 @@
-# No‑JS CAPTCHA (Flask + Pillow)
+# TrustCaptcha
 
 A simple, framework-agnostic CAPTCHA you can drop into any website. It renders an obfuscated image and validates user input with single-use tokens, TTL, and attempt limits. Works with standard HTML forms (POST) — no JavaScript required.
 
@@ -162,3 +162,4 @@ If you include the font in your repo, follow its license.
 
 ## License
 This sample code is provided as-is. If you bundle third-party fonts (e.g., DejaVu), comply with their licenses.
+
