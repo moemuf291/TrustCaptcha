@@ -39,13 +39,13 @@ Environment variables (optional):
 - Place these into `.env` to avoid setting them per shell session.
 
 ## Project layout
-app.py
-requirements.txt
-templates/
-form.html
-assets/
-fonts/
-DejaVuSans.ttf (optional; or set CAPTCHA_FONT_PATH)
+-app.py
+-requirements.txt
+-templates/
+-form.html
+-assets/
+-fonts/
+-DejaVuSans.ttf (optional; or set CAPTCHA_FONT_PATH)
 
 
 ## How it works
@@ -162,5 +162,6 @@ If you include the font in your repo, follow its license.
 
 ## License
 This sample code is provided as-is. If you bundle third-party fonts (e.g., DejaVu), comply with their licenses.
+
 
 
