@@ -23,7 +23,7 @@ Requirements:
 Optional (recommended for production):
 - Redis 6+ (local or managed). Set `REDIS_URL` to connect.
   - Note: Fail-fast is NOT enabled by default. If Redis is missing/unreachable, the app falls back to in-memory storage (not durable, not shared across processes). Enable Redis for production.
-- Create a `.env` file in the project root; variables are auto-loaded via python-dotenv.
+
 
 Run:
 ```bash
@@ -162,4 +162,5 @@ If you include the font in your repo, follow its license.
 
 ## License
 This sample code is provided as-is. If you bundle third-party fonts (e.g., DejaVu), comply with their licenses.
+
 
